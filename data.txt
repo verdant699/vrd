@@ -7,7 +7,7 @@
       "download_url": "https://verdantonlinelib.x10.mx/Online/Lib/libvrd1.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
-    
+    {
       "name": "V3RD4NT PREMIUM GARENA V2",
       "status": "OFFLINE",
       "lib_name": "libvrd2.so",
