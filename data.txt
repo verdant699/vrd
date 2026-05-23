@@ -1,0 +1,25 @@
+{
+  "systems": [
+    {
+      "name": "V3RD4NT PREMIUM GARENA",
+      "status": "ONLINE",
+      "lib_name": "libvrd1.so",
+      "download_url": "https://example.com/downloads/libmod_global.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    
+      "name": "V3RD4NT PREMIUM GARENA V2",
+      "status": "OFFLINE",
+      "lib_name": "libvrd2.so",
+      "download_url": "https://example.com/downloads/libmod_beta.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "V3RD4NT PREMIUM GARENA V3",
+      "status": "OFFLINE",
+      "lib_name": "libvrd3.so",
+      "download_url": "https://example.com/downloads/liblegacy.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    }
+  ]
+}
